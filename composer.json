@@ -1,6 +1,7 @@
 {
     "name": "gaurangsharma/response-generator",
     "description": "Simplifies response generation",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Gaurang\\ResponseGenerator\\": "src/"
