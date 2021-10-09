@@ -1,0 +1,16 @@
+{
+    "name": "gaurang/response-generator",
+    "description": "Simplifies response generation",
+    "autoload": {
+        "psr-4": {
+            "Gaurang\\ResponseGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gaurang Sharma",
+            "email": "gaurang@iogravity.com"
+        }
+    ],
+    "require": {}
+}
