@@ -1,5 +1,5 @@
 {
-    "name": "gaurangSharma/response-generator",
+    "name": "gaurangsharma/response-generator",
     "description": "Simplifies response generation",
     "autoload": {
         "psr-4": {
